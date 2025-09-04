@@ -5,3 +5,4 @@
 3. Ejecutar el comando `npm install` para instalar las dependencias
 4. Verificar que el backend este corriendo en el puerto 3000
 5. Ejecutar el comando `npm run dev` para iniciar el servidor de desarrollo
+6. Cuenta de prueba - email:test1@google.com  password:Abc123
